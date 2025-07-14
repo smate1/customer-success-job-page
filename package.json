@@ -1,0 +1,19 @@
+{
+	"name": "customer-success",
+	"version": "1.0.0",
+	"description": "Customer Success Page - JavaScript version",
+	"main": "index.html",
+	"scripts": {
+		"dev": "vite --host 0.0.0.0",
+		"build": "vite build",
+		"preview": "vite preview --host 0.0.0.0",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"vite": "^7.0.2"
+	},
+	"devDependencies": {}
+}
